@@ -1,0 +1,5 @@
+H:\Taukir\StackApp\StackApp\bin\Debug\StackApp.exe.config
+H:\Taukir\StackApp\StackApp\bin\Debug\StackApp.exe
+H:\Taukir\StackApp\StackApp\bin\Debug\StackApp.pdb
+H:\Taukir\StackApp\StackApp\obj\Debug\StackApp.exe
+H:\Taukir\StackApp\StackApp\obj\Debug\StackApp.pdb
